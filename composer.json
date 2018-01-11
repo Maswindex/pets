@@ -1,0 +1,16 @@
+{
+  "name":"mhernand/328/pets",
+  "authors": [
+    {
+      "name": "Mason Hernandez",
+      "email": "mhernandez58@mail.greenriver.edu"
+    },
+    {
+      "name": "Jacob Landowski",
+      "email": "jlanowski@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
